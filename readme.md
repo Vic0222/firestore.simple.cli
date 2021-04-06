@@ -1,6 +1,7 @@
-##Sample command
+##A Simple export and import tool for firebase firestore
 
-###Exporting
+
+###Help
 ```
-firestore.simple.cli export
+firestore.simple.cli --help
 ```
